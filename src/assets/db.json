@@ -16,35 +16,213 @@
       "colorId": 2
     },
     {
-      "name": "Личное",
-      "colorId": 1,
+      "name": "Подписки",
+      "colorId": 6,
+      "id": 5
+    },
+    {
+      "name": "YouTube",
+      "colorId": 8,
       "id": 6
+    },
+    {
+      "name": "Подкасты",
+      "colorId": 5,
+      "id": 7
     }
   ],
   "tasks": [
     {
-      "id": 1,
+      "listId": 3,
+      "text": "Сокол и зимний солдат",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "listId": 3,
+      "text": "Тень и Кость",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "listId": 3,
+      "text": "Досмотреть Ход Королевы",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "listId": 3,
+      "text": "Призраки усадьбы Бейл",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "listId": 3,
+      "text": "Призраки дома на холме",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "listId": 3,
+      "text": "Ирландец",
+      "completed": false,
+      "id": 10
+    },
+    {
+      "listId": 5,
+      "text": "Netflix",
+      "completed": true,
+      "id": 11
+    },
+    {
+      "listId": 4,
+      "text": "Netflix",
+      "completed": true,
+      "id": 12
+    },
+    {
+      "listId": 4,
+      "text": "Тинькоф",
+      "completed": true,
+      "id": 13
+    },
+    {
+      "listId": 4,
+      "text": "Бедный папа Богатый папа",
+      "completed": true,
+      "id": 14
+    },
+    {
+      "listId": 4,
+      "text": "The One",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "listId": 4,
+      "text": "Совершенный код",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "listId": 4,
+      "text": "Zara",
+      "completed": false,
+      "id": 17
+    },
+    {
+      "listId": 2,
+      "text": "Пройти HTMLacademy",
+      "completed": true,
+      "id": 18
+    },
+    {
+      "listId": 2,
+      "text": "разобраться с flex and grid CSS",
+      "completed": true,
+      "id": 19
+    },
+    {
+      "listId": 2,
+      "text": "Процессоры SCSS SASS",
+      "completed": false,
+      "id": 20
+    },
+    {
       "listId": 2,
       "text": "Изучить JavaScript",
-      "completed": true
+      "completed": true,
+      "id": 21
     },
     {
-      "id": 2,
       "listId": 2,
-      "text": "Изучить паттерны проектирования",
-      "completed": false
+      "text": "Сверстать 10-ок макетов на CSS ",
+      "completed": false,
+      "id": 22
     },
     {
-      "id": 3,
       "listId": 2,
-      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
-      "completed": false
+      "text": "Сверстать калькулятор",
+      "completed": true,
+      "id": 23
     },
     {
-      "id": 4,
       "listId": 2,
-      "text": "Redux (redux-observable, redux-saga)",
-      "completed": false
+      "text": "Ознакомиться с React , что это такое вообще",
+      "completed": true,
+      "id": 24
+    },
+    {
+      "listId": 2,
+      "text": "Пройти пару курсов по JavaScript на YouTube",
+      "completed": true,
+      "id": 25
+    },
+    {
+      "listId": 6,
+      "text": "Что было дальше",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "listId": 6,
+      "text": "Читка",
+      "completed": false,
+      "id": 27
+    },
+    {
+      "listId": 6,
+      "text": "Archakov blog",
+      "completed": true,
+      "id": 28
+    },
+    {
+      "listId": 6,
+      "text": "it-kamasutra",
+      "completed": true,
+      "id": 29
+    },
+    {
+      "listId": 6,
+      "text": "Фрилансер по жизни",
+      "completed": true,
+      "id": 30
+    },
+    {
+      "listId": 6,
+      "text": "it-Борода",
+      "completed": true,
+      "id": 31
+    },
+    {
+      "listId": 7,
+      "text": "Терминальное чтиво",
+      "completed": true,
+      "id": 32
+    },
+    {
+      "listId": 7,
+      "text": "Запуск завтра",
+      "completed": true,
+      "id": 33
+    },
+    {
+      "listId": 7,
+      "text": "Kudji Podcast",
+      "completed": true,
+      "id": 34
+    },
+    {
+      "listId": 7,
+      "text": "WODO",
+      "completed": true,
+      "id": 35
+    },
+    {
+      "listId": 7,
+      "text": "Эпизодный клан",
+      "completed": true,
+      "id": 36
     }
   ],
   "colors": [
