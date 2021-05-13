@@ -29,6 +29,11 @@
       "name": "Подкасты",
       "colorId": 5,
       "id": 7
+    },
+    {
+      "name": "Долги",
+      "colorId": 1,
+      "id": 8
     }
   ],
   "tasks": [
@@ -223,6 +228,12 @@
       "text": "Эпизодный клан",
       "completed": true,
       "id": 36
+    },
+    {
+      "listId": 8,
+      "text": "Макс 200$ ",
+      "completed": true,
+      "id": 37
     }
   ],
   "colors": [
