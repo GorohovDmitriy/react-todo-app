@@ -234,6 +234,18 @@
       "text": "Макс 200$ ",
       "completed": true,
       "id": 37
+    },
+    {
+      "listId": 2,
+      "text": "Закончить курс по ReactJs PIZZA ",
+      "completed": true,
+      "id": 38
+    },
+    {
+      "listId": 2,
+      "text": "Закончить курс по React ToDo",
+      "completed": true,
+      "id": 39
     }
   ],
   "colors": [
